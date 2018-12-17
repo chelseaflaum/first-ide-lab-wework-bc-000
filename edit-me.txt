@@ -1,2 +1,2 @@
 "welcome"
-put "to my channel"
+"to my channel"
